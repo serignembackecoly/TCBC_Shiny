@@ -1,0 +1,12 @@
+name: application_tcbc
+title: application_tcbc
+username: sahel-apps
+account: sahel-apps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14639356
+bundleId: 10230290
+url: https://sahel-apps.shinyapps.io/application_tcbc/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
